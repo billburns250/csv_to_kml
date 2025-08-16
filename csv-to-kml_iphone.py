@@ -1,4 +1,8 @@
 # v0.9
+# Last Revised August 15, 2025
+# Copyright © 2025 Bill Burns. This work is openly licensed via CC BY 4.0
+# https://creativecommons.org/licenses/by/4.0/
+#
 
 import os
 import csv
